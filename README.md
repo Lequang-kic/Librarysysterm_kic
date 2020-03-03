@@ -2,7 +2,7 @@
 This is a school library book management project
 図書館管理システム
 1.	Class diagram
- 
+ view in doc. file 
 
 2.システムのユーザー
 管理者(Admin)
@@ -49,7 +49,4 @@ Librarian の作ったユーザーをログインできます
 
 
 
-本のデータを見るできるし、本を借りたり、返却したりができるます。
 
- 
-ここまでできました。時間が足りないので、 Transcaction の機能はまだ作ってないです。申し訳ありません。
