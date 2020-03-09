@@ -1,11 +1,13 @@
 # Librarysysterm_kic
-This is a school library book management project
-  See the detailed content at docx.file
 
+## Project Goal
 
+This is a library management project that uses the Java Spring and MySql
 
+## 1.	Class diagram
+(./docs/diagram.jpg)
 
+login view
 
-
-
-
+(./docs/main.jpg)
+(./docs/login.jpg)
