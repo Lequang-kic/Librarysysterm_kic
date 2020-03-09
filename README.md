@@ -5,9 +5,11 @@
 This is a library management project that uses the Java Spring and MySql
 
 ## 1.	Class diagram
-![Donkey car](./docs/diagram.jpg)
+![Lib](./docs/diagram.jpg)
 
 login view
 
-![Donkey car](./docs/main.jpg)
-![Donkey car](./docs/login.jpg)
+![Lib](./docs/main.jpg)
+![Lib](./docs/login.jpg)
+
+Read more detail in docs file
